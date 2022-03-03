@@ -4,6 +4,7 @@ public static void main(string args[])
 
 }
 system.out.println(HelloJenkins);
+system.out.println(Hello git);
 {
 
 }
