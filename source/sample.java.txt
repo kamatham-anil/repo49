@@ -3,7 +3,7 @@ class
 public static void main(string args[])
 
 }
-system.out.println(Hello Github);
+system.out.println(HelloJenkins);
 {
 
 }
